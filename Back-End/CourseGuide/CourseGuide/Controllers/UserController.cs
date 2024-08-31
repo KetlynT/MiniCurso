@@ -4,6 +4,7 @@ using CourseGuide.Objects.DTOs.Entities;
 using CourseGuide.Objects.Contracts;
 using CourseGuide.Objects.Utilities;
 using System.Dynamic;
+using static Jose.Compact;
 
 namespace CourseGuide.Controllers
 {
@@ -74,7 +75,7 @@ namespace CourseGuide.Controllers
         [HttpPost("Create")]
         public async Task<ActionResult> Create([FromBody] UserDTO userDTO)
         {
-            if (userDTO == null)
+            if (userDTO is null)
             {
                 _response.SetInvalid();
                 _response.Message = "Dado(s) inválido(s)!";
@@ -109,7 +110,17 @@ namespace CourseGuide.Controllers
                     return BadRequest(_response);
                 }
 
-                userDTO.PasswordUser = userDTO.PasswordUser.HashPassword();
+                // Criptografa a senha
+                var hashedPassword = OperatorUtilitie.HashPassword(userDTO.PasswordUser);
+
+                // Remove o primeiro caractere da senha criptografada
+                if (hashedPassword.Length > 0)
+                {
+                    hashedPassword = hashedPassword.Substring(0);
+                }
+
+                userDTO.PasswordUser = hashedPassword;
+
                 await _userService.Create(userDTO);
 
                 _response.SetSuccess();

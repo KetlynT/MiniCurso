@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\contexts\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\contexts\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\objects\\models\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\objects\\models\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\migrations\\20240824083603_database_v.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\migrations\\20240824083603_database_v.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santo\\OneDrive\\\u00C1rea de Trabalho\\GitHub\\Course-Project\\project\\backend\\CourseGuide\\CourseGuide\\Migrations\\20240824082919_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\objects\\contracts\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\objects\\contracts\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\services\\entities\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\services\\entities\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\repositories\\entities\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\repositories\\entities\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\objects\\utilities\\validatorutilitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\objects\\utilities\\validatorutilitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\objects\\utilities\\operatorutilitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\objects\\utilities\\operatorutilitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\objects\\contracts\\tokensignatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\objects\\contracts\\tokensignatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\objects\\contracts\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\objects\\contracts\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\objects\\contracts\\responseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\objects\\contracts\\responseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\services\\server\\dependenciesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\services\\server\\dependenciesinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\objects\\contracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\objects\\contracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\objects\\dtos\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\objects\\dtos\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\objects\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\objects\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\contexts\\builders\\userbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\contexts\\builders\\userbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|c:\\users\\aluno\\desktop\\minicurso\\back-end\\courseguide\\courseguide\\courseguide.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A0F5835-076E-4321-ADFD-201F63AC5839}|CourseGuide\\CourseGuide.csproj|solutionrelative:courseguide\\courseguide.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240824082919_test.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\OneDrive\\\u00C1rea de Trabalho\\GitHub\\Course-Project\\project\\backend\\CourseGuide\\CourseGuide\\Migrations\\20240824082919_test.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\santo\\OneDrive\\\u00C1rea de Trabalho\\GitHub\\Course-Project\\project\\backend\\CourseGuide\\CourseGuide\\Migrations\\20240824082919_test.cs",
+              "ToolTip": "C:\\Users\\santo\\OneDrive\\\u00C1rea de Trabalho\\GitHub\\Course-Project\\project\\backend\\CourseGuide\\CourseGuide\\Migrations\\20240824082919_test.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\santo\\OneDrive\\\u00C1rea de Trabalho\\GitHub\\Course-Project\\project\\backend\\CourseGuide\\CourseGuide\\Migrations\\20240824082919_test.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:29:19.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "CourseGuide\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CourseGuide\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFgBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240824083603_Database_v.1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Migrations\\20240824083603_Database_v.1.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Migrations\\20240824083603_Database_v.1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Migrations\\20240824083603_Database_v.1.cs",
+              "RelativeToolTip": "CourseGuide\\Migrations\\20240824083603_Database_v.1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CourseGuide\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Services\\Entities\\UserService.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Services\\Entities\\UserService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Services\\Entities\\UserService.cs",
+              "RelativeToolTip": "CourseGuide\\Services\\Entities\\UserService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidatorUtilitie.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Utilities\\ValidatorUtilitie.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Objects\\Utilities\\ValidatorUtilitie.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Utilities\\ValidatorUtilitie.cs",
+              "RelativeToolTip": "CourseGuide\\Objects\\Utilities\\ValidatorUtilitie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OperatorUtilitie.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Utilities\\OperatorUtilitie.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Objects\\Utilities\\OperatorUtilitie.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Utilities\\OperatorUtilitie.cs",
+              "RelativeToolTip": "CourseGuide\\Objects\\Utilities\\OperatorUtilitie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Models\\Entities\\UserModel.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Objects\\Models\\Entities\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Models\\Entities\\UserModel.cs",
+              "RelativeToolTip": "CourseGuide\\Objects\\Models\\Entities\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Contexts\\DBContext.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Contexts\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Contexts\\DBContext.cs",
+              "RelativeToolTip": "CourseGuide\\Contexts\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Startup.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Startup.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Startup.cs",
+              "RelativeToolTip": "CourseGuide\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Repositories\\Entities\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Repositories\\Entities\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Repositories\\Entities\\UserRepository.cs",
+              "RelativeToolTip": "CourseGuide\\Repositories\\Entities\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenSignatures.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Contracts\\TokenSignatures.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Objects\\Contracts\\TokenSignatures.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Contracts\\TokenSignatures.cs",
+              "RelativeToolTip": "CourseGuide\\Objects\\Contracts\\TokenSignatures.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Contracts\\Login.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Objects\\Contracts\\Login.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Contracts\\Login.cs",
+              "RelativeToolTip": "CourseGuide\\Objects\\Contracts\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\appsettings.json",
+              "RelativeDocumentMoniker": "CourseGuide\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\appsettings.json",
+              "RelativeToolTip": "CourseGuide\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T13:37:08.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Contracts\\Token.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Objects\\Contracts\\Token.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Contracts\\Token.cs",
+              "RelativeToolTip": "CourseGuide\\Objects\\Contracts\\Token.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResponseEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Contracts\\ResponseEnum.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Objects\\Contracts\\ResponseEnum.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Contracts\\ResponseEnum.cs",
+              "RelativeToolTip": "CourseGuide\\Objects\\Contracts\\ResponseEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Program.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Program.cs",
+              "RelativeToolTip": "CourseGuide\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependenciesInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Services\\Server\\DependenciesInjection.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Services\\Server\\DependenciesInjection.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Services\\Server\\DependenciesInjection.cs",
+              "RelativeToolTip": "CourseGuide\\Services\\Server\\DependenciesInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Contracts\\Response.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Objects\\Contracts\\Response.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\Contracts\\Response.cs",
+              "RelativeToolTip": "CourseGuide\\Objects\\Contracts\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\DTOs\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Objects\\DTOs\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\DTOs\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CourseGuide\\Objects\\DTOs\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\DTOs\\Entities\\UserDTO.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Objects\\DTOs\\Entities\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Objects\\DTOs\\Entities\\UserDTO.cs",
+              "RelativeToolTip": "CourseGuide\\Objects\\DTOs\\Entities\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Contexts\\Builders\\UserBuilder.cs",
+              "RelativeDocumentMoniker": "CourseGuide\\Contexts\\Builders\\UserBuilder.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\Contexts\\Builders\\UserBuilder.cs",
+              "RelativeToolTip": "CourseGuide\\Contexts\\Builders\\UserBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:37:08.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseGuide.csproj",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\CourseGuide.csproj",
+              "RelativeDocumentMoniker": "CourseGuide\\CourseGuide.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\MiniCurso\\Back-End\\CourseGuide\\CourseGuide\\CourseGuide.csproj",
+              "RelativeToolTip": "CourseGuide\\CourseGuide.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T13:37:08.674Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
